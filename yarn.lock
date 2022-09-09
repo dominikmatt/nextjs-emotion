@@ -356,15 +356,15 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@next/env@12.3.0":
-  "integrity" "sha512-PTJpjAFVbzBQ9xXpzMTroShvD5YDIIy46jQ7d4LrWpY+/5a8H90Tm8hE3Hvkc5RBRspVo7kvEOnqQms0A+2Q6w=="
-  "resolved" "https://registry.npmjs.org/@next/env/-/env-12.3.0.tgz"
-  "version" "12.3.0"
+"@next/env@12.3.1-canary.0":
+  "integrity" "sha512-W1eRfjNckMVB60gHeSM76gLLAKoWqzMPURa524Nn2+XvTbCKYJsjZjIFwtW1B/XYh2IyDcZ0GWtIDS8MF48gKg=="
+  "resolved" "https://registry.npmjs.org/@next/env/-/env-12.3.1-canary.0.tgz"
+  "version" "12.3.1-canary.0"
 
-"@next/swc-darwin-x64@12.3.0":
-  "integrity" "sha512-2scC4MqUTwGwok+wpVxP+zWp7WcCAVOtutki2E1n99rBOTnUOX6qXkgxSy083yBN6GqwuC/dzHeN7hIKjavfRA=="
-  "resolved" "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-12.3.0.tgz"
-  "version" "12.3.0"
+"@next/swc-darwin-x64@12.3.1-canary.0":
+  "integrity" "sha512-UG3QjbR3K/BlUYvZG5YEpV1OjgVxwciQ6sV3EjFbrLechF3l7EMHgPvx9H0S1NgceVumjqTgmECFFINzfpEdqA=="
+  "resolved" "https://registry.npmjs.org/@next/swc-darwin-x64/-/swc-darwin-x64-12.3.1-canary.0.tgz"
+  "version" "12.3.1-canary.0"
 
 "@swc/helpers@0.4.11":
   "integrity" "sha512-rEUrBSGIoSFuYxwBYtlUFMlE2CwGhmW+w9355/5oduSw8e5h2+Tj4UrAGNNgP9915++wj5vkQo0UuOBqOAq4nw=="
@@ -593,31 +593,31 @@
   "resolved" "https://registry.npmjs.org/nanoid/-/nanoid-3.3.4.tgz"
   "version" "3.3.4"
 
-"next@12.3.0":
-  "integrity" "sha512-GpzI6me9V1+XYtfK0Ae9WD0mKqHyzQlGq1xH1rzNIYMASo4Tkl4rTe9jSqtBpXFhOS33KohXs9ZY38Akkhdciw=="
-  "resolved" "https://registry.npmjs.org/next/-/next-12.3.0.tgz"
-  "version" "12.3.0"
+"next@^12.3.1-canary.0":
+  "integrity" "sha512-yjcqgGtX6+LlgTRM6wQMlQcYgPlIM2rX3U0FzGw5Yy7MG31vPrVzhybD1wYznCaFE6sye6IyUWlMfqgojbrfag=="
+  "resolved" "https://registry.npmjs.org/next/-/next-12.3.1-canary.0.tgz"
+  "version" "12.3.1-canary.0"
   dependencies:
-    "@next/env" "12.3.0"
+    "@next/env" "12.3.1-canary.0"
     "@swc/helpers" "0.4.11"
     "caniuse-lite" "^1.0.30001332"
     "postcss" "8.4.14"
     "styled-jsx" "5.0.6"
     "use-sync-external-store" "1.2.0"
   optionalDependencies:
-    "@next/swc-android-arm-eabi" "12.3.0"
-    "@next/swc-android-arm64" "12.3.0"
-    "@next/swc-darwin-arm64" "12.3.0"
-    "@next/swc-darwin-x64" "12.3.0"
-    "@next/swc-freebsd-x64" "12.3.0"
-    "@next/swc-linux-arm-gnueabihf" "12.3.0"
-    "@next/swc-linux-arm64-gnu" "12.3.0"
-    "@next/swc-linux-arm64-musl" "12.3.0"
-    "@next/swc-linux-x64-gnu" "12.3.0"
-    "@next/swc-linux-x64-musl" "12.3.0"
-    "@next/swc-win32-arm64-msvc" "12.3.0"
-    "@next/swc-win32-ia32-msvc" "12.3.0"
-    "@next/swc-win32-x64-msvc" "12.3.0"
+    "@next/swc-android-arm-eabi" "12.3.1-canary.0"
+    "@next/swc-android-arm64" "12.3.1-canary.0"
+    "@next/swc-darwin-arm64" "12.3.1-canary.0"
+    "@next/swc-darwin-x64" "12.3.1-canary.0"
+    "@next/swc-freebsd-x64" "12.3.1-canary.0"
+    "@next/swc-linux-arm-gnueabihf" "12.3.1-canary.0"
+    "@next/swc-linux-arm64-gnu" "12.3.1-canary.0"
+    "@next/swc-linux-arm64-musl" "12.3.1-canary.0"
+    "@next/swc-linux-x64-gnu" "12.3.1-canary.0"
+    "@next/swc-linux-x64-musl" "12.3.1-canary.0"
+    "@next/swc-win32-arm64-msvc" "12.3.1-canary.0"
+    "@next/swc-win32-ia32-msvc" "12.3.1-canary.0"
+    "@next/swc-win32-x64-msvc" "12.3.1-canary.0"
 
 "node-releases@^2.0.6":
   "integrity" "sha512-PiVXnNuFm5+iYkLBNeq5211hvO38y63T0i2KKh2KnUs3RpzJ+JtODFjkD8yjLwnDkTYF1eKXheUwdssR+NRZdg=="
